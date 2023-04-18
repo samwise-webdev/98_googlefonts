@@ -3,20 +3,20 @@ body {
     margin: auto;
     font-family: 'Labrada', serif;
     font-weight: 200;
-    font-size: 1.5em; /* if no value is set, em will take from the browser default, which is typically 16px */
+    font-size: 1.25em; /* if no value is set, em will take from the browser default, which is typically 16px */
 }
 
 h1 {
     font-family: 'Labrada', serif;
     font-weight: 700;
-    font-size: 4em;
+    font-size: 3em;
     margin: auto;
 }
 
 h2 {
     font-family: 'Labrada', serif;
     font-weight: 400;
-    font-size: 3em;
+    font-size: 2.5em;
     margin: auto;
 }
 

@@ -1,26 +1,33 @@
 body {
-    width: 500px;
+    width: 600px;
     margin: auto;
 }
 
 h1 {
     font-family: 'Labrada', serif;
     font-weight: 700;
+    font-size: 4em;
+    margin: auto;
 }
 
 h2 {
     font-family: 'Labrada', serif;
     font-weight: 400;
+    font-size: 3em;
+    margin: auto;
 }
 
 h3 {
     font-family: 'Labrada', serif;
     font-weight: 300;
+    font-size: 2em;
+    margin: auto;
 }
 
 p {
     font-family: 'Labrada', serif;
     font-weight: 200;
+    font-size: 1.5em;
 }
 
 /* Not much to say on this since I already knew how to use it. Go to fonts.google.com and choose the fonts you want. Then copy their embed code and paste it into the head of the html page, and use their CSS rules to apply it to elements */

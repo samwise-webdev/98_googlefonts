@@ -27,4 +27,6 @@ h3 {
     margin: auto;
 }
 
-/* Not much to say on this since I already knew how to use it. Go to fonts.google.com and choose the fonts you want. Then copy their embed code and paste it into the head of the html page, and use their CSS rules to apply it to elements */
+/* Not much to say on this since I already knew how to use it. Go to fonts.google.com and choose the fonts you want. Then copy their embed code and paste it into the head of the html page, and use their CSS rules to apply it to elements
+
+for the record, you could have put h1, h2, h3 { font-family: 'labrada', serif; } and then specified only the weight in each heading, would have been slightly less redundant */

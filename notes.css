@@ -1,6 +1,9 @@
 body {
     width: 600px;
     margin: auto;
+    font-family: 'Labrada', serif;
+    font-weight: 200;
+    font-size: 1.5em; /* if no value is set, em will take from the browser default, which is typically 16px */
 }
 
 h1 {
@@ -22,12 +25,6 @@ h3 {
     font-weight: 300;
     font-size: 2em;
     margin: auto;
-}
-
-p {
-    font-family: 'Labrada', serif;
-    font-weight: 200;
-    font-size: 1.5em;
 }
 
 /* Not much to say on this since I already knew how to use it. Go to fonts.google.com and choose the fonts you want. Then copy their embed code and paste it into the head of the html page, and use their CSS rules to apply it to elements */

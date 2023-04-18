@@ -20,7 +20,7 @@ h3 {
 
 p {
     font-family: 'Labrada', serif;
-    font-weight: 100;
+    font-weight: 200;
 }
 
 /* Not much to say on this since I already knew how to use it. Go to fonts.google.com and choose the fonts you want. Then copy their embed code and paste it into the head of the html page, and use their CSS rules to apply it to elements */

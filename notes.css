@@ -1,3 +1,9 @@
 h1 {
     font-family: 'Labrada', serif;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Labrada', serif;
+    font-weight: 400;
 }

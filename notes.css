@@ -1,8 +1,8 @@
 body {
     width: 600px;
     margin: auto;
-    font-family: 'Labrada', serif;
-    font-weight: 200;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
     font-size: 1.25em; /* if no value is set, em will take from the browser default, which is typically 16px */
 }
 
